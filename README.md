@@ -26,7 +26,7 @@
   <img align="left" alt="Anurag Hazra | Twitter" width="41px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qp9lxuMs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png" />
 </a>
 
-<a href="">
+<a href="https://discussions.apple.com/profile/Yashchitroda">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://e7.pngegg.com/pngimages/271/897/png-clipart-heart-organ-circle-pattern-apple-logo-white-heart.png" />
 </a>
 
