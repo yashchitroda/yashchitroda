@@ -53,19 +53,19 @@
 
 <h1>Tools</h1>
 <div align="center">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></img>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" height="29"></img>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="30"></img>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"></img>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="30"></img>
+<a href="https://www.sublimetext.com/download"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></img></a>
+<a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img></a>
+<a href="https://www.apple.com/safari/"><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"></img></a>
+<a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" height="29"></img></a>
+<a href="https://developer.android.com/studio?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVU1Wcx1PNPxz3Gz827pBL7eeeUWcRD95hWlvS2nEiQcbEfC4ddeT4MaAooPEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="30"></img></a>
+<a href="https://dev.mysql.com/downloads/installer/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30"></img></a>
+<a href="https://unity3d.com/get-unity/download"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="30"></img></a>
 
 </div>
 
 <h1>WorkSpace</h1>
 <div align="left">
-<a href="https://www.apple.com/in/macbook-air/"><img src="https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white"></img></a>
+<a href="https://www.apple.com/macbook-air/"><img src="https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white"></img></a>
 
 </div>
 
