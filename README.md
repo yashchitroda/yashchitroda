@@ -37,8 +37,8 @@
 
 <br/><br/><br/>
 
-<h1>Technologies</h1>
-<div align="center">
+<h1>Top Technologies</h1>
+<div align="left">
 <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img></a>
 <a href="https://www.programiz.com/c-programming/c-keywords-identifier"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
 <a href="https://www.programiz.com/cpp-programming"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img></a>
@@ -52,7 +52,7 @@
 </div>
 
 <h1>Tools</h1>
-<div align="center">
+<div align="left">
 <a href="https://www.sublimetext.com/download"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></img></a>
 <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img></a>
 <a href="https://www.apple.com/safari/"><img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white"></img></a>
