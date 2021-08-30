@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey There It's <a href="https://github.com/yashchitroda">Yash Chitroda</a> :man_student: :man_technologist:</h1>
-<h3 align="center">Web | Android | iOS</h3>
+<h3 align="center">Web | Android | iOS | Front End</h3>
 <h3 align="center">Developer :desktop_computer: :computer_mouse:</h3>
 
 ### ➤ Find and connect me on!
@@ -70,7 +70,7 @@
 <br/>
 <h1>Accomplishments</h1>
 
-|        Sr.no  |         TITLE | Certification Body | Verify          |
+|        Sr.no  |         TITLE | Certification Body | Verify Here          |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
 |   1  | Technical Support Fundamentals |    GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/verify/25GSNC63G5SB">View</a>  |
 |   2  | IT Security: Defense against the digital dark arts  | GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/verify/JR4ERK6JP4CU">View</a>  |
