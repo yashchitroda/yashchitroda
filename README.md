@@ -67,6 +67,20 @@
 <div align="left">
 <a href="https://www.apple.com/macbook-air/"><img src="https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white"></img></a>
 </div>
+<br/>
+<h1>Accomplishments</h1>
+
+|        Sr.no  |         TITLE | Certification Body | Verify          |
+| :-------------: | :-------------: | :-------------: | :-------------: | 
+|   1  | Technical Support Fundamentals |    GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/verify/25GSNC63G5SB">View</a>  |
+|   2  | IT Security: Defense against the digital dark arts  | GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/verify/JR4ERK6JP4CU">View</a>  |
+|   3  | The Bits and Bytes of Computer Networking  | GOOGLE | <a href="https://www.coursera.org/account/accomplishments/verify/E359L2B9X2RP">View</a>  |
+|   4  | App Design and Development for iOS |  COURSERA   | <a href="https://www.coursera.org/account/accomplishments/verify/YDCLZ2A9J9ER">View</a>  |
+|   5  | UX Design Fundamentals | COURSERA   | <a href="https://www.coursera.org/account/accomplishments/verify/EXZA234QJVTG">View</a>  |
+|   6  | Html Javascript & Bootstrap Certification  | UDEMY  | <a href="https://www.udemy.com/certificate/UC-6830cec0-219f-4b69-bcc0-9fad9cb3ecb8/">View</a>  |
+ 
+<br/>
+
 
 <h1>Streak !!</h1>
 <div align="left">
