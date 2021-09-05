@@ -20,6 +20,10 @@
   <img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
 </a>
 
+<a href="https://apple.stackexchange.com/users/432398/yash-chitroda">
+  <img align="left"  width="25px" src="https://icon-library.com/images/command-512.png" />
+</a>
+
 <a href="https://discussions.apple.com/profile/Yashchitroda">
   <img align="left" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AE5PxYWY3ylcJDAeeVzeF3msQ7Z1ROPzOsHJq6D6DiHRwkWEn47GAYmiQb_4uCJnfgw&usqp=CAU" />
 </a>
