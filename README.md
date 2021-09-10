@@ -24,6 +24,10 @@
   <img align="left"  width="25px" src="https://icon-library.com/images/command-512.png" />
 </a>
 
+<a href="https://ux.stackexchange.com/users/151550/yash-chitroda">
+  <img align="left"  width="50px" src="https://i.stack.imgur.com/y56qf.png" />
+</a>
+
 <a href="https://discussions.apple.com/profile/Yashchitroda">
   <img align="left" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AE5PxYWY3ylcJDAeeVzeF3msQ7Z1ROPzOsHJq6D6DiHRwkWEn47GAYmiQb_4uCJnfgw&usqp=CAU" />
 </a>
