@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/yash-chitroda-82b8a0210/">
   <img align="left"  width="32px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
-
+<div align="left">
 <a href="https://github.com/yashchitroda">
   <img align="left"  width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
 </a>
@@ -43,7 +43,7 @@
 <a href="https://twitter.com/yashhchitroda">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+</div>
 
 
 <br/><br/><br/>
