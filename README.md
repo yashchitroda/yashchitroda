@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://discussions.apple.com/profile/Yashchitroda">
-  <img align="left" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7AE5PxYWY3ylcJDAeeVzeF3msQ7Z1ROPzOsHJq6D6DiHRwkWEn47GAYmiQb_4uCJnfgw&usqp=CAU" />
+  <img align="left" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png" />
 </a>
 
 <a href="https://www.hackerrank.com/yashchitroda">
