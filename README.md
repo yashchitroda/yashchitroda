@@ -8,41 +8,43 @@
 <p align="left"> <img width="230px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box" /> </p><br>
 
 ## ➤ Find and connect me on!
-<a href="https://www.linkedin.com/in/yash-chitroda-82b8a0210/">
-  <img align="left"  width="32px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
-</a>
 <div align="left">
+<a href="https://www.linkedin.com/in/yash-chitroda-82b8a0210/">
+  <img  width="32px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
 <a href="https://github.com/yashchitroda">
-  <img align="left"  width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
-</a>
+  <img   width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/users/13858444/yash-chitroda">
-  <img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
-</a>
+  <img   width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://apple.stackexchange.com/users/432398/yash-chitroda">
-  <img align="left"  width="25px" src="https://icon-library.com/images/command-512.png" />
-</a>
+  <img   width="25px" src="https://icon-library.com/images/command-512.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://ux.stackexchange.com/users/151550/yash-chitroda">
-  <img align="left"  width="50px" src="https://i.stack.imgur.com/y56qf.png" />
-</a>
+  <img   width="50px" src="https://i.stack.imgur.com/y56qf.png" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://discussions.apple.com/profile/Yashchitroda">
-  <img align="left" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png" />
-</a>
+  <img  width="35px" src="https://i.imgur.com/2BMRxAG.png" />
+</a> &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/yashchitroda">
-  <img align="left"  width="45px" height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qp9lxuMs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png" />
-</a>
+  <img   width="45px" height="30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qp9lxuMs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk4gt0qay4owv4j1cypo.png" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://developers.google.com/profile/u/111371663905138614049">
-  <img align="left" width="35px" height ="20" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" />
-</a>
+  <img style="position: relative; top: -32px;" width="35px" height="20" src="https://i.imgur.com/SGSkD0B.png" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://twitter.com/yashhchitroda">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+  <img  width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </div>
 
 
