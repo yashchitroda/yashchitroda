@@ -97,5 +97,5 @@
 
 <h1>Streak !!</h1>
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashchitroda&" alt="yashchitroda"></img>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=yashchitroda&theme=blue-green&hide_border=true"></img>
 </div>
