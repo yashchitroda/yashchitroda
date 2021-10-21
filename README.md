@@ -4,8 +4,10 @@
 <h3 align="center">Web | Android | iOS | Front End</h3>
 <h3 align="center">Developer :desktop_computer: :computer_mouse:</h3>
 
+<!--
 ## ➤ Impact
 <p align="left"> <img width="230px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box" /> </p><br>
+-->
 
 ## ➤ Find and connect me on!
 <div align="left">
@@ -14,8 +16,11 @@
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
   
 <a href="https://github.com/yashchitroda">
-  <img   width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" />
+</a>&nbsp;&nbsp;
+    <a href="https://gitlab.com/yashchitroda">
+  <img width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
+</a>&nbsp;&nbsp;
 
 <a href="https://stackoverflow.com/users/13858444/yash-chitroda">
   <img   width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />
@@ -40,6 +45,9 @@
 <a href="https://developers.google.com/profile/u/111371663905138614049">
   <img style="position: relative; top: -32px;" width="35px" height="20" src="https://i.imgur.com/SGSkD0B.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+
+  
 
 <a href="https://twitter.com/yashhchitroda">
   <img  width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
