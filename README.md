@@ -90,7 +90,7 @@ End</h3>
 <a href="https://www.apple.com/macbook-air/"><img src="https://img.shields.io/badge/Apple-MacBook_Air-999999?style=for-the-badge&logo=apple&logoColor=white"></img></a>
 </div>
 <br/>
-<h1>Accomplishments</h1>
+<h1>Accomplishments & Certifications</h1>
 
 |        Sr.no  |         TITLE | Certification Body | Verify Here          |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
