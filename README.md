@@ -1,8 +1,7 @@
 
 
 <h1 align="center">Hey There It's <a href="https://github.com/yashchitroda">Yash Chitroda</a> :man_student: :man_technologist:</h1>
-<h3 align="center">Web | Android | iOS | Front-
-End</h3>
+<h3 align="center">Web | Front-End | Android </h3>
 <h3 align="center">Developer :desktop_computer: :computer_mouse:</h3>
 
 <!--
