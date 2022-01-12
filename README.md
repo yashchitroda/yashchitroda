@@ -50,7 +50,7 @@
   
 
 <a href="https://twitter.com/yashhchitroda">
-  <img  width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img  width="30px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
