@@ -9,7 +9,7 @@
 <p align="left"> <img width="230px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box" /> </p><br>
 -->
 
-## ➤ Find and connect me on!!
+## ➤ Find and connect me on !!
 <div align="left">
 <a href="https://www.linkedin.com/in/yash-chitroda-82b8a0210/">
   <img  width="32px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
