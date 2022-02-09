@@ -91,7 +91,7 @@
 <br/>
 <h1>Accomplishment & Certifications !!</h1>
  
-|        Sr.no  |         TITLE | Certification Body | Verify Here          |
+|        Sr.No  |         TITLE | Certification Body | Verify Here          |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
 |   1  | Technical Support Fundamentals |    GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/verify/25GSNC63G5SB">View</a>  |
 |   2  | IT Security: Defense against the digital dark arts  | GOOGLE |  <a href="https://www.coursera.org/account/accomplishments/verify/JR4ERK6JP4CU">View</a>  |
