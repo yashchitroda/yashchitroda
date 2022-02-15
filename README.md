@@ -105,7 +105,7 @@
 <br/>
 
 
-<h1>Streak & Stat's !!</h1>
+<h1>Streak & Stats !!</h1>
 <div>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=yashchitroda&theme=blue-green&hide_border=true" width="350"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=yashchitroda&count_private=true&show_icons=true&theme=blue-green&hide_border=true" width="350">
