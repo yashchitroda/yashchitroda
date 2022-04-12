@@ -6,7 +6,7 @@
 
 <!--
 ## ➤ Impactt
-<p align="left"> <img width="222px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box"/> </p><br>
+<p align="left"> <img width="223px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box"/> </p><br>
 -->
 
 ## ➤ Find and connect me on !!
