@@ -114,6 +114,6 @@
 </div>
  
 <!-- <a href="https://stackoverflow.com/users/13858444/yash-chitroda" target="_blank">
-<img alt="StackOverflow"
+<img alt="Stack overflow"
 src="https://stackoverflow-badge.vercel.app/?userID=13858444 "width="255"  />
 </a> -->
