@@ -5,7 +5,7 @@
 <h3 align="center">Developer :desktop_computer: :computer_mouse:</h3>
 
 <!--
-## ➤ Impactt
+## ➤ Impact
 <p align="left"> <img width="227px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box"/> </p><br>
 -->
 
