@@ -6,7 +6,7 @@
 
 <!--
 ## ➤ Impact
-<p align="left"> <img width="212px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box"/> </p><br>
+<p align="left"> <img width="211px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box"/> </p><br>
 -->
 
 ## ➤ Find and connect me on !!
