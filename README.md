@@ -74,7 +74,7 @@
 <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img></a>
 </div>
 
-<h1>Tools</h1>
+<h1>Tools.</h1>
 <div align="left">
 <a href="https://www.sublimetext.com/download"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></img></a>
 <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img></a>
