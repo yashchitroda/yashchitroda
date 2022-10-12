@@ -1,9 +1,11 @@
 
 
 <h1 align="center">Hey There It's <a href="https://github.com/yashchitroda">Yash Chitroda</a> :man_student: :man_technologist:</h1>
-<h3 align="center">Web | Front-End | UI </h3>
-<h3 align="center">Developer :desktop_computer: :computer_mouse:</h3>
-
+<h3 align="center">System Enginner | System Admin | Support Enginner </h3>
+<!-- 
+<h3 align="center">Developer :desktop_computer: :computer_mouse:</h3> 
+-->
+<br>
 <!--
 ## ➤ Impact
 <p align="left"> <img width="121px" src="https://komarev.com/ghpvc/?username=yashchitroda&label=Profile%20views&color=0000A3&style=box"/> </p><br>
